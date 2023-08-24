@@ -1,6 +1,6 @@
 # Lee datos del usuario y envía un saludo la pantalla
 
-print("Leyendo datos y enviando un mensaje a pantalla")
+print("Leyendo datos y envíando un mensaje a pantalla")
 
 nombre = input("Dame tu nombre?")
 edad   = int(input ("Dame la edad?"))

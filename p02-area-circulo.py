@@ -1,6 +1,6 @@
 # Calcula el área de un circulo dado el radio
 
-import math #importamos la libreria de funciones y constantes matematicas
+import math #importamos la librería de funciones y constantes matematicas
 
 print("Calculando el area de un circulo/n")
 
