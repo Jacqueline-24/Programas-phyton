@@ -9,5 +9,5 @@ radio= float(input("Dame el radio?"))
 area= 3.1416 * radio * radio 
 area= math.pi * math.pow(radio,2)
 
-print(f"Para un circulode radio {radio}el area resultante es {area:.2f}")
+print(f"Para un circulo de radio {radio} el area resultante es {area:.2f}")
 
