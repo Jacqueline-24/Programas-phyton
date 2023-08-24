@@ -1,4 +1,4 @@
-# Calcula el area de un circulo dado el radio
+# Calcula el área de un circulo dado el radio
 
 import math #importamos la libreria de funciones y constantes matematicas
 

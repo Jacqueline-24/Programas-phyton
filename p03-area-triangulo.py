@@ -1,4 +1,4 @@
-#Calcula el area de un triangulo dada la base y la altura 
+# Calcula el area de un triangulo dada la base y la altura 
 
 import math
 

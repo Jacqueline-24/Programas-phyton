@@ -1,4 +1,4 @@
-#Calculando la paga total de un trabajador
+# Calculando la paga total de un trabajador
 
 print("Calculando la paga total de un trabajador p04-paga-trabajadorp04-paga-trabajador /n ")
 

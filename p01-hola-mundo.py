@@ -1,4 +1,4 @@
-# Lee datos del usuario y envia un saludo la pantalla
+# Lee datos del usuario y envía un saludo la pantalla
 
 print("Leyendo datos y enviando un mensaje a pantalla")
 
