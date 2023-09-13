@@ -37,3 +37,18 @@
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p22-tipo-angulo
+
+# Tarea 2
+
+
+
+
+
+
+
+# Actividad 5
+- p29-numeros-1-100
+- p30-numeros-100-1
+- p31-numeros-1-200-10 
+- p32-numeros-suma-100 
+- p33-conteo-numeros
