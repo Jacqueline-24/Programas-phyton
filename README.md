@@ -39,12 +39,12 @@
 - p22-tipo-angulo
 
 # Tarea 2
-
-
-
-
-
-
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-de-la-semana
+- p26-numeros-romanos
+- p27-calculo-de-notas
+- p28-aceptar-estudiante-v2
 
 # Actividad 5
 - p29-numeros-1-100
