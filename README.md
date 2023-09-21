@@ -58,3 +58,11 @@
 - p35-conjetura-collatz
 - p36-tabla-multiplicar
 - p37-tabla-multiplicar-v2
+
+# Tarea 3
+- p38-impares-ascendente
+- p39-pares-descendente
+- p40-promedio-suma
+- p41-suma-200
+- p42-conversion-temperaturas
+- p43-numero-mayor
