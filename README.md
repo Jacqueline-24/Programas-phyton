@@ -66,3 +66,10 @@
 - p41-suma-200
 - p42-conversion-temperaturas
 - p43-numero-mayor
+
+# Actividad 7
+- p45-numeros-1-100  
+- p46-numeros-100-1  
+- p47-arriba-abajo
+- p48-suma-pares-impares
+- p49-suma-numeros
