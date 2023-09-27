@@ -18,7 +18,7 @@ while(True):
     eventosocial = 800
     kitacceso = 900
 
-    while suma <= 500000000000 : 
+    while suma <= 5000000000000 : 
         tusuario = int(input("[1] Alumno $100, [2] Trabajador $200, [3] Docente $500 ?"))
         tpaquete = int(input("[1] Solo conferencias $600, [2] Con eventos sociales $800, [3] Con kit de acceso $900 ?"))
         cant = int(input("Cantidad ?"))
