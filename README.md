@@ -83,3 +83,17 @@
 - p52-tablas-multiplicar-v2
 - p53-piramide-caracter
 - p54-factorial-numeros
+
+# Tarea 4 
+- p55-numeros-10-en-10
+- p56-suma-pares-2-n
+- p57-secuencia-numeros-1
+- p58–secuencia-numeros-2
+- p59-secuencia-terminos-1
+
+# Actividad 9
+- p60-acceder-lista
+- p61-cambiar-lista
+- p62-agregar-lista
+- p63-remover-lista
+- p64-iterar-lista
