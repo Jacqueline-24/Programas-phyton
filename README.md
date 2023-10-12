@@ -97,3 +97,9 @@
 - p62-agregar-lista
 - p63-remover-lista
 - p64-iterar-lista
+
+# Tarea 5
+- p65-acceder-lista
+- p66-modifcar-lista
+- p67-remover-lista
+- p68-lista-promedio
