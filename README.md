@@ -104,7 +104,7 @@
 - p67-remover-lista
 - p68-lista-promedio
 
-# Actividad 10
+# Diccionarios 
 - p80-estudiante
 - p81-calificaciones
 - p82-nombre-edades

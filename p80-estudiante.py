@@ -20,6 +20,6 @@ print("\nLos valores:")
 for v in estudiante.values():
     print(v, end=" ")
 
-print("\nLlaves y valores a la vez :")
+print("\nLlaves y valores a la vez son :")
 for k, v in estudiante.items():
     print(f"{k:<12} : {v}")
