@@ -15,4 +15,4 @@ for n, e in datos.items():
     print(f"{n:<20} - {e:3}")
     s = s + e
 p = s / len(datos)
-print(f"\nLa suma es: {s} y el promedio es : {p:.2f}")
+print(f"\nLa suma : {s} y el promedio : {p:.2f}")
