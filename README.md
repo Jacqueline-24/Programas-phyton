@@ -119,3 +119,6 @@
 # Actividad 11
 - p76-trabajando-conjuntos
 - p77-operaciones-conjuntos
+
+# Examen parcial 2
+- p90-segundo-examen-parcial
