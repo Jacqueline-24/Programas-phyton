@@ -6,9 +6,9 @@ A = {50, 60, 70, 80, 90, 100, 200}
 B = {60, 90, 100, 300, 400, 500}
 C = {10, 20, 60, 90, 70, 100, 600, 700}
 
-print(A)
-print(B)
-print(C)
+print("Conjunto A", A)
+print("Conjunto B", B)
+print("Conjunto C", C)
 
 print("\nUnion")
 print("A union B",A.union(B))

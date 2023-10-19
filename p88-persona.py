@@ -24,15 +24,15 @@ print("A dif simetrica B", A ^ B)
 
 print("\nComprobamos subconjuntos")
 if {"Pablo", "Mateo"}.issubset(B):
-    print("El conjunto de nombres ['Pablo', 'Mateo'] es subconjunto de B")
+    print("El conjunto de nombres [Pablo, Mateo] es subconjunto de B")
 else:
-    print("El conjunto de nombres ['Pablo', 'Mateo'] no es subconjunto de B")
+    print("El conjunto de nombres [Pablo, Mateo] no es subconjunto de B")
 
 print("\nComprobar superconjunto")   
 if A.issuperset({"Reynaldo", "Angelica"}):
-    print("A es superconjunto del conjunto de nombres ['Reynaldo', 'Angelica']")
+    print("A es superconjunto del conjunto de nombres [Reynaldo, Angelica]")
 else:
-    print("A no es superconjunto del conjunto de nombres ['Reynaldo', 'Angelica']")
+    print("A no es superconjunto del conjunto de nombres [Reynaldo, Angelica]")
 
 
 print("\nVerificar")

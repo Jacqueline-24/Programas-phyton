@@ -124,5 +124,5 @@
 - p90-segundo-examen-parcial
 
 # Tarea 7
-- p88-personas
-- p89-numeros
+- p88-persona
+- p89-números
