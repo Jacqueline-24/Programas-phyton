@@ -126,3 +126,21 @@
 # Tarea 7
 - p88-persona
 - p89-números
+
+# Actividad 12 
+- p91-funcion
+- p92-funcion-parametro
+- p93-funcion-parametros
+- p94-funcion-mas-parametros
+- p95-funcion-parametros-nombre
+- p96-funcion-parametros-por-defecto
+- p97-funcion-suma
+- p98-tabla-multiplicar
+- p99-cuadro-caracter
+- p100-numero-mayor
+- p101-estacion-del-año
+- p102-temperatura
+- p103-suma-digitos
+- p104-factorial
+- p105-calificacion-con-letra
+- p106-suma-numeros-en-un-rango
