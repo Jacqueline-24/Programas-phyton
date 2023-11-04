@@ -150,3 +150,14 @@
 - p108-dia-semana
 - p109-medidas-longitud
 - p110-suma-pares-impares
+
+# Actividad 13
+- p111-suma
+- p112-pares
+- p113-mayor-menor
+- p114-mayores-promedio
+- p115-pares-impares
+- p116-aleatorios
+- p117-nombres
+- p118-funciones
+- p119-usa-funciones
