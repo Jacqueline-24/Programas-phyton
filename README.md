@@ -161,3 +161,9 @@
 - p117-nombres
 - p118-funciones
 - p119-usa-funciones
+
+# Tarea 9
+- p121-suma-digitos-lista
+- p123-calcula-factoriales
+- p124-estadisticas-basicas
+- 
