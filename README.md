@@ -177,3 +177,6 @@
 
 # Actividad 15
 - p130-venta
+
+# Examen parcial 3
+- p131-tercer-examen-parcial
